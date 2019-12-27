@@ -12,6 +12,6 @@ significant decrease in coding necessary.  However, one drawback is the readabil
 be more convoluted for generally programming use outside of the world of applied mathematicians.
 
 Regardless, the results show for themselves the estimation power that these schemes have.  These plots were the result of 
-running this script with `n = 20000` and `dx = 0.01`.
+running this script with `n = 20000` and `dx = 0.01`.  The exact answer is given by `erfc` - special thanks to `SciPy`.
 
 ![result](./plots.png)
