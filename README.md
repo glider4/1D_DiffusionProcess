@@ -11,7 +11,7 @@ outside of the loop.  Compare this to some of my other scripts which have length
 significant decrease in coding necessary.  However, one drawback is the readability of `np.diag` and `np.eye`, etc. can 
 be more convoluted for generally programming use outside of the world of applied mathematicians.
 
-Regardless, the results show for themselves the estimation power that these schemes have.  These plots were run on 
-`n = 20000`, with `dx = 0.01`.
+Regardless, the results show for themselves the estimation power that these schemes have.  These plots were the result of 
+running this script with `n = 20000` and `dx = 0.01`.
 
 ![result](./plots.png)
